@@ -20,7 +20,9 @@ structure of the database that the company is using. The three sections in the d
 company are as follows:
 <br>
 ● Employee section
+<br>
 ● Customer section
+<br>
 ● Product section
 <br>
 You can download the details of the attributes for each table from the file attached on the
