@@ -18,11 +18,14 @@ Suppose you are a data analyst working at this company. Here, you are only focus
 SQL queries to get an idea of the company’s sales. Now, let’s understand the process and
 structure of the database that the company is using. The three sections in the database of the
 company are as follows:
+<br>
 ● Employee section
 ● Customer section
 ● Product section
+<br>
 You can download the details of the attributes for each table from the file attached on the
 platform below.
+<br>
 1. Employee section: This section is divided into the following tables:
 a. employees: This table contains information about a company’s employees. Each
 entry in this table is identified uniquely by the ‘employeeNumber’, which is the
