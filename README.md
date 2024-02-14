@@ -1,4 +1,4 @@
-# -toy-replica-case-study
+# toy-replica-case-study
 The online retailing business is quite famous currently. Here, you do not need to take orders by
 going to each customer. In online retailing, a company launches its website to sell the items in
 wholesale, and buyers can order the products that they require from that website only. In this
